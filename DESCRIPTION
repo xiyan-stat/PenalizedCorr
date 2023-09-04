@@ -1,0 +1,13 @@
+Package: PenalizedCorr
+Type: Package
+Title: Penalized (Partial) Autocorrelation Function Estimation
+Version: 0.1.0
+Author: Xiyan Tan, Colin Gallagher
+Maintainer: Xiyan Tan <xytanstat@gmail.com>
+Description: This package contains the Penalized (partial) autocorrelation 
+             estimation function which are described in "Penalized M-Estimation
+             of Autocorrelation".
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2

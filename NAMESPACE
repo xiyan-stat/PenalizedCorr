@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "abline", "mtext", "par", "title")
+importFrom("stats", "as.ts", "frequency", "na.fail", "qnorm",
+               "setNames", "toeplitz", "var")
