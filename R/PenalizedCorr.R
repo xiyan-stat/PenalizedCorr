@@ -436,5 +436,8 @@ penarprint <- function(x, digits = 3L, ...){
 }
 
 #penarpredict function to fit the autoregressive model from penar
+penarpredict <- function(x, order.max = NULL, ...){
+
+}
 
 
