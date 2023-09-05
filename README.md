@@ -15,4 +15,5 @@ data1 = arima.sim(n=100, model = list(ar=0.5))
 # visualize data
 plot(data1)
 ```
+<img src="fig/example1.png" width="864" /> 
 
